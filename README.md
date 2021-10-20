@@ -18,13 +18,13 @@ And on GitHub trending!
 
 ## 👨‍🏫 Demo
 
-1. [nlsn.cf/1](https://nlsn.cf/1) should link to this repo.
+1. [s.yiqiqq.com/1](https://s.yiqiqq.com/1) should link to this repo.
 
 1. To add a new short link, add an issue with the title being the link you want
    to shorten (including the `http(s)://`) to
-   [https://github.com/nelsontky/gh-pages-url-shortener-db/issues](https://github.com/nelsontky/gh-pages-url-shortener-db/issues).
+   [https://github.com/rogerwangzy/gh-pages-url-shortener/issues](https://github.com/rogerwangzy/gh-pages-url-shortener/issues).
 
-1. The newly created short url can be accessed via `nlsn.cf/{issue_number}`
+1. The newly created short url can be accessed via `s.yiqiqq.com/{issue_number}`
 
 ## ☕️ Features
 
@@ -33,7 +33,7 @@ And on GitHub trending!
    pages.
 
 1. There is no need for the pound symbol - short URLs look clean like this:
-   `nlsn.cf/1` instead of looking like this: `nlsn.cf/#1`.
+   `s.yiqiqq.com/1` instead of looking like this: `s.yiqiqq.com/#1`.
 
 ## 💡 How does this work?
 
